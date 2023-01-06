@@ -145,7 +145,7 @@ const engagementMessageOverTimeChartOptions = (messageCountList, channels) => {
       inverted: false,
     },
     title: {
-      text: "Showing Message counts for each date",
+      text: "Showing message counts for each date and channels that have messages for more than 1 date",
       align: "left",
     },
     xAxis: {
